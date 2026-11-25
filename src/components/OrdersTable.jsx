@@ -82,14 +82,14 @@ export default function OrdersTable({ orders, filters }) {
           <table className="table table-hover align-middle mb-0">
             <thead>
               <tr>
-                <th><button className="th-btn" type="button" onClick={() => toggleSort('id')}>Order{sortArrow('id')}</button></th>
-                <th><button className="th-btn" type="button" onClick={() => toggleSort('date')}>Date{sortArrow('date')}</button></th>
-                <th><button className="th-btn" type="button" onClick={() => toggleSort('customer')}>Customer{sortArrow('customer')}</button></th>
-                <th><button className="th-btn" type="button" onClick={() => toggleSort('product')}>Product{sortArrow('product')}</button></th>
-                <th>Category</th>
-                <th>Channel</th>
-                <th><button className="th-btn" type="button" onClick={() => toggleSort('total')}>Total{sortArrow('total')}</button></th>
-                <th>Status</th>
+                <th scope="col" aria-sort={sortKey === 'id' ? (sortDir === 'asc' ? 'ascending' : 'descending') : undefined}><button className="th-btn" type="button" onClick={() => toggleSort('id')}>Order{sortArrow('id')}</button></th>
+                <th scope="col" aria-sort={sortKey === 'date' ? (sortDir === 'asc' ? 'ascending' : 'descending') : undefined}><button className="th-btn" type="button" onClick={() => toggleSort('date')}>Date{sortArrow('date')}</button></th>
+                <th scope="col" aria-sort={sortKey === 'customer' ? (sortDir === 'asc' ? 'ascending' : 'descending') : undefined}><button className="th-btn" type="button" onClick={() => toggleSort('customer')}>Customer{sortArrow('customer')}</button></th>
+                <th scope="col" aria-sort={sortKey === 'product' ? (sortDir === 'asc' ? 'ascending' : 'descending') : undefined}><button className="th-btn" type="button" onClick={() => toggleSort('product')}>Product{sortArrow('product')}</button></th>
+                <th scope="col">Category</th>
+                <th scope="col">Channel</th>
+                <th scope="col" aria-sort={sortKey === 'total' ? (sortDir === 'asc' ? 'ascending' : 'descending') : undefined}><button className="th-btn" type="button" onClick={() => toggleSort('total')}>Total{sortArrow('total')}</button></th>
+                <th scope="col">Status</th>
               </tr>
             </thead>
             <tbody>
