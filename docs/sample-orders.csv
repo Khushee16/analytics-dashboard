@@ -1,0 +1,61 @@
+order_id,date,customer,product,category,channel,items,total_usd,status
+SK-1001,2026-10-26,Liam Brown,Wireless Headphones,Electronics,Mobile App,3,269.97,Delivered
+SK-1002,2026-10-26,Kabir Singh,Ceramic Dinner Set,Home & Kitchen,Website,3,239.97,Processing
+SK-1003,2026-10-26,Jordan Lee,Face Moisturizer,Beauty,Mobile App,1,27.99,Delivered
+SK-1004,2026-10-26,Rahul Mehta,Yoga Mat,Sports,Marketplace,3,98.97,Delivered
+SK-1005,2026-10-26,Sofia Garcia,Hair Dryer,Beauty,Marketplace,1,49.99,Delivered
+SK-1006,2026-10-26,Noah Davis,Running Shoes,Fashion,Website,1,99.99,Delivered
+SK-1007,2026-10-26,Isha Verma,Face Moisturizer,Beauty,Instagram Shop,2,55.98,Delivered
+SK-1008,2026-10-26,Jordan Lee,Face Moisturizer,Beauty,Instagram Shop,2,55.98,Cancelled
+SK-1009,2026-10-26,Rahul Mehta,Dumbbell Set,Sports,Website,3,224.97,Delivered
+SK-1010,2026-10-27,Emma Wilson,Throw Pillow Set,Home & Kitchen,Website,1,29.99,Shipped
+SK-1011,2026-10-27,Isha Verma,Leather Wallet,Fashion,Mobile App,3,134.97,Delivered
+SK-1012,2026-10-27,Liam Brown,Running Shoes,Fashion,Website,3,299.97,Processing
+SK-1013,2026-10-27,Ananya Rao,Electric Kettle,Home & Kitchen,Marketplace,1,34.99,Delivered
+SK-1014,2026-10-27,Noah Davis,Water Bottle 1L,Sports,Website,3,56.97,Delivered
+SK-1015,2026-10-27,Liam Brown,Bluetooth Speaker,Electronics,Website,2,119.98,Delivered
+SK-1016,2026-10-27,Lucas Taylor,Dumbbell Set,Sports,Marketplace,1,74.99,Cancelled
+SK-1017,2026-10-27,Chris Evans,Lipstick Set,Beauty,Mobile App,2,45.98,Cancelled
+SK-1018,2026-10-27,Nina Patel,Dumbbell Set,Sports,Marketplace,3,224.97,Processing
+SK-1019,2026-10-28,Mia Anderson,Running Shoes,Fashion,Marketplace,1,99.99,Delivered
+SK-1020,2026-10-28,Sofia Garcia,Wireless Headphones,Electronics,Marketplace,1,89.99,Processing
+SK-1021,2026-10-28,Owen Clark,USB-C Charger,Electronics,Marketplace,2,49.98,Processing
+SK-1022,2026-10-28,Priya Nair,Denim Jacket,Fashion,Instagram Shop,3,194.97,Cancelled
+SK-1023,2026-10-28,Ethan Moore,Denim Jacket,Fashion,Mobile App,2,129.98,Shipped
+SK-1024,2026-10-28,Sofia Garcia,Bluetooth Speaker,Electronics,Website,3,179.97,Cancelled
+SK-1025,2026-10-28,Isha Verma,Running Shoes,Fashion,Mobile App,1,99.99,Processing
+SK-1026,2026-10-29,Lucas Taylor,Laptop Stand,Electronics,Website,2,79.98,Delivered
+SK-1027,2026-10-29,Maya Shah,Cotton T-Shirt,Fashion,Mobile App,1,19.99,Processing
+SK-1028,2026-10-29,Lucas Taylor,Wireless Headphones,Electronics,Website,3,269.97,Processing
+SK-1029,2026-10-29,Lucas Taylor,Electric Kettle,Home & Kitchen,Mobile App,3,104.97,Delivered
+SK-1030,2026-10-29,Kabir Singh,Gym Bag,Sports,Mobile App,1,39.99,Cancelled
+SK-1031,2026-10-29,Isha Verma,Leather Wallet,Fashion,Marketplace,3,134.97,Processing
+SK-1032,2026-10-29,Emma Wilson,Face Moisturizer,Beauty,Website,1,27.99,Delivered
+SK-1033,2026-10-29,Emma Wilson,Laptop Stand,Electronics,Mobile App,3,119.97,Delivered
+SK-1034,2026-10-30,Maya Shah,Smart Watch,Electronics,Instagram Shop,1,149.99,Delivered
+SK-1035,2026-10-30,Lucas Taylor,Water Bottle 1L,Sports,Mobile App,2,37.98,Processing
+SK-1036,2026-10-30,Lucas Taylor,Coffee Maker,Home & Kitchen,Marketplace,1,69.99,Delivered
+SK-1037,2026-10-30,Ethan Moore,Wireless Headphones,Electronics,Instagram Shop,3,269.97,Shipped
+SK-1038,2026-10-31,Priya Nair,Face Moisturizer,Beauty,Website,3,83.97,Shipped
+SK-1039,2026-10-31,Rahul Mehta,Denim Jacket,Fashion,Mobile App,1,64.99,Processing
+SK-1040,2026-10-31,Sofia Garcia,Lipstick Set,Beauty,Instagram Shop,2,45.98,Shipped
+SK-1041,2026-10-31,Kabir Singh,Ceramic Dinner Set,Home & Kitchen,Website,2,159.98,Delivered
+SK-1042,2026-10-31,Emma Wilson,Yoga Mat,Sports,Mobile App,1,32.99,Shipped
+SK-1043,2026-10-31,Olivia Chen,Sunscreen SPF 50,Beauty,Website,1,16.99,Delivered
+SK-1044,2026-10-31,Liam Brown,Face Moisturizer,Beauty,Marketplace,2,55.98,Delivered
+SK-1045,2026-11-01,Rahul Mehta,Gym Bag,Sports,Instagram Shop,1,39.99,Delivered
+SK-1046,2026-11-01,Kabir Singh,Laptop Stand,Electronics,Website,3,119.97,Cancelled
+SK-1047,2026-11-01,Nina Patel,Denim Jacket,Fashion,Marketplace,1,64.99,Processing
+SK-1048,2026-11-01,Mia Anderson,Water Bottle 1L,Sports,Website,1,18.99,Delivered
+SK-1049,2026-11-01,Emma Wilson,Laptop Stand,Electronics,Marketplace,1,39.99,Delivered
+SK-1050,2026-11-01,Owen Clark,Water Bottle 1L,Sports,Website,3,56.97,Processing
+SK-1051,2026-11-01,Nina Patel,USB-C Charger,Electronics,Instagram Shop,3,74.97,Delivered
+SK-1052,2026-11-02,Olivia Chen,Running Shoes,Fashion,Mobile App,2,199.98,Cancelled
+SK-1053,2026-11-02,Jordan Lee,Leather Wallet,Fashion,Website,2,89.98,Shipped
+SK-1054,2026-11-02,Kabir Singh,Yoga Mat,Sports,Mobile App,1,32.99,Processing
+SK-1055,2026-11-02,Jordan Lee,Running Shoes,Fashion,Mobile App,2,199.98,Delivered
+SK-1056,2026-11-02,Kabir Singh,Running Shoes,Fashion,Instagram Shop,2,199.98,Processing
+SK-1057,2026-11-03,Kabir Singh,Yoga Mat,Sports,Instagram Shop,3,98.97,Cancelled
+SK-1058,2026-11-03,Priya Nair,Smart Watch,Electronics,Website,2,299.98,Cancelled
+SK-1059,2026-11-03,Zara Khan,Water Bottle 1L,Sports,Mobile App,2,37.98,Cancelled
+SK-1060,2026-11-03,Liam Brown,Running Shoes,Fashion,Marketplace,3,299.97,Delivered

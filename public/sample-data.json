@@ -1,0 +1,2509 @@
+{
+  "meta": {
+    "store": "ShopKart \u2014 fictional demo store",
+    "note": "Sample / demo data only. No real customers, orders, or revenue. Created for a portfolio demo.",
+    "currency": "USD",
+    "period": "2026-10-26 to 2026-11-24",
+    "generated": "2026-11-24"
+  },
+  "visitorsDaily": [
+    {
+      "date": "2026-10-26",
+      "visitors": 1094
+    },
+    {
+      "date": "2026-10-27",
+      "visitors": 1540
+    },
+    {
+      "date": "2026-10-28",
+      "visitors": 1774
+    },
+    {
+      "date": "2026-10-29",
+      "visitors": 1540
+    },
+    {
+      "date": "2026-10-30",
+      "visitors": 1422
+    },
+    {
+      "date": "2026-10-31",
+      "visitors": 1666
+    },
+    {
+      "date": "2026-11-01",
+      "visitors": 1212
+    },
+    {
+      "date": "2026-11-02",
+      "visitors": 1871
+    },
+    {
+      "date": "2026-11-03",
+      "visitors": 1037
+    },
+    {
+      "date": "2026-11-04",
+      "visitors": 1086
+    },
+    {
+      "date": "2026-11-05",
+      "visitors": 1074
+    },
+    {
+      "date": "2026-11-06",
+      "visitors": 1090
+    },
+    {
+      "date": "2026-11-07",
+      "visitors": 1784
+    },
+    {
+      "date": "2026-11-08",
+      "visitors": 1097
+    },
+    {
+      "date": "2026-11-09",
+      "visitors": 1663
+    },
+    {
+      "date": "2026-11-10",
+      "visitors": 1166
+    },
+    {
+      "date": "2026-11-11",
+      "visitors": 2039
+    },
+    {
+      "date": "2026-11-12",
+      "visitors": 1022
+    },
+    {
+      "date": "2026-11-13",
+      "visitors": 2050
+    },
+    {
+      "date": "2026-11-14",
+      "visitors": 2050
+    },
+    {
+      "date": "2026-11-15",
+      "visitors": 1575
+    },
+    {
+      "date": "2026-11-16",
+      "visitors": 1150
+    },
+    {
+      "date": "2026-11-17",
+      "visitors": 1741
+    },
+    {
+      "date": "2026-11-18",
+      "visitors": 1624
+    },
+    {
+      "date": "2026-11-19",
+      "visitors": 1766
+    },
+    {
+      "date": "2026-11-20",
+      "visitors": 1005
+    },
+    {
+      "date": "2026-11-21",
+      "visitors": 1489
+    },
+    {
+      "date": "2026-11-22",
+      "visitors": 1539
+    },
+    {
+      "date": "2026-11-23",
+      "visitors": 1620
+    },
+    {
+      "date": "2026-11-24",
+      "visitors": 1112
+    }
+  ],
+  "orders": [
+    {
+      "id": "SK-1001",
+      "date": "2026-10-26",
+      "customer": "Liam Brown",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 269.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1002",
+      "date": "2026-10-26",
+      "customer": "Kabir Singh",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 3,
+      "total": 239.97,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1003",
+      "date": "2026-10-26",
+      "customer": "Jordan Lee",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 27.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1004",
+      "date": "2026-10-26",
+      "customer": "Rahul Mehta",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 98.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1005",
+      "date": "2026-10-26",
+      "customer": "Sofia Garcia",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 49.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1006",
+      "date": "2026-10-26",
+      "customer": "Noah Davis",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Website",
+      "items": 1,
+      "total": 99.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1007",
+      "date": "2026-10-26",
+      "customer": "Isha Verma",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 55.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1008",
+      "date": "2026-10-26",
+      "customer": "Jordan Lee",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 55.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1009",
+      "date": "2026-10-26",
+      "customer": "Rahul Mehta",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 3,
+      "total": 224.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1010",
+      "date": "2026-10-27",
+      "customer": "Emma Wilson",
+      "product": "Throw Pillow Set",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 1,
+      "total": 29.99,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1011",
+      "date": "2026-10-27",
+      "customer": "Isha Verma",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 134.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1012",
+      "date": "2026-10-27",
+      "customer": "Liam Brown",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Website",
+      "items": 3,
+      "total": 299.97,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1013",
+      "date": "2026-10-27",
+      "customer": "Ananya Rao",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 34.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1014",
+      "date": "2026-10-27",
+      "customer": "Noah Davis",
+      "product": "Water Bottle 1L",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 3,
+      "total": 56.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1015",
+      "date": "2026-10-27",
+      "customer": "Liam Brown",
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 2,
+      "total": 119.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1016",
+      "date": "2026-10-27",
+      "customer": "Lucas Taylor",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 74.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1017",
+      "date": "2026-10-27",
+      "customer": "Chris Evans",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 45.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1018",
+      "date": "2026-10-27",
+      "customer": "Nina Patel",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 224.97,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1019",
+      "date": "2026-10-28",
+      "customer": "Mia Anderson",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 99.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1020",
+      "date": "2026-10-28",
+      "customer": "Sofia Garcia",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 89.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1021",
+      "date": "2026-10-28",
+      "customer": "Owen Clark",
+      "product": "USB-C Charger",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 49.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1022",
+      "date": "2026-10-28",
+      "customer": "Priya Nair",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 194.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1023",
+      "date": "2026-10-28",
+      "customer": "Ethan Moore",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 129.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1024",
+      "date": "2026-10-28",
+      "customer": "Sofia Garcia",
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 3,
+      "total": 179.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1025",
+      "date": "2026-10-28",
+      "customer": "Isha Verma",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 99.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1026",
+      "date": "2026-10-29",
+      "customer": "Lucas Taylor",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 2,
+      "total": 79.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1027",
+      "date": "2026-10-29",
+      "customer": "Maya Shah",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 19.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1028",
+      "date": "2026-10-29",
+      "customer": "Lucas Taylor",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 3,
+      "total": 269.97,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1029",
+      "date": "2026-10-29",
+      "customer": "Lucas Taylor",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 104.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1030",
+      "date": "2026-10-29",
+      "customer": "Kabir Singh",
+      "product": "Gym Bag",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 39.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1031",
+      "date": "2026-10-29",
+      "customer": "Isha Verma",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 134.97,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1032",
+      "date": "2026-10-29",
+      "customer": "Emma Wilson",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 1,
+      "total": 27.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1033",
+      "date": "2026-10-29",
+      "customer": "Emma Wilson",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 119.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1034",
+      "date": "2026-10-30",
+      "customer": "Maya Shah",
+      "product": "Smart Watch",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 149.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1035",
+      "date": "2026-10-30",
+      "customer": "Lucas Taylor",
+      "product": "Water Bottle 1L",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 37.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1036",
+      "date": "2026-10-30",
+      "customer": "Lucas Taylor",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 69.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1037",
+      "date": "2026-10-30",
+      "customer": "Ethan Moore",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 269.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1038",
+      "date": "2026-10-31",
+      "customer": "Priya Nair",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 3,
+      "total": 83.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1039",
+      "date": "2026-10-31",
+      "customer": "Rahul Mehta",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 64.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1040",
+      "date": "2026-10-31",
+      "customer": "Sofia Garcia",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 45.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1041",
+      "date": "2026-10-31",
+      "customer": "Kabir Singh",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 2,
+      "total": 159.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1042",
+      "date": "2026-10-31",
+      "customer": "Emma Wilson",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 32.99,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1043",
+      "date": "2026-10-31",
+      "customer": "Olivia Chen",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 1,
+      "total": 16.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1044",
+      "date": "2026-10-31",
+      "customer": "Liam Brown",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 55.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1045",
+      "date": "2026-11-01",
+      "customer": "Rahul Mehta",
+      "product": "Gym Bag",
+      "category": "Sports",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 39.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1046",
+      "date": "2026-11-01",
+      "customer": "Kabir Singh",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 3,
+      "total": 119.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1047",
+      "date": "2026-11-01",
+      "customer": "Nina Patel",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 64.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1048",
+      "date": "2026-11-01",
+      "customer": "Mia Anderson",
+      "product": "Water Bottle 1L",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 1,
+      "total": 18.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1049",
+      "date": "2026-11-01",
+      "customer": "Emma Wilson",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 39.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1050",
+      "date": "2026-11-01",
+      "customer": "Owen Clark",
+      "product": "Water Bottle 1L",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 3,
+      "total": 56.97,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1051",
+      "date": "2026-11-01",
+      "customer": "Nina Patel",
+      "product": "USB-C Charger",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 74.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1052",
+      "date": "2026-11-02",
+      "customer": "Olivia Chen",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 199.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1053",
+      "date": "2026-11-02",
+      "customer": "Jordan Lee",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Website",
+      "items": 2,
+      "total": 89.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1054",
+      "date": "2026-11-02",
+      "customer": "Kabir Singh",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 32.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1055",
+      "date": "2026-11-02",
+      "customer": "Jordan Lee",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 199.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1056",
+      "date": "2026-11-02",
+      "customer": "Kabir Singh",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 199.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1057",
+      "date": "2026-11-03",
+      "customer": "Kabir Singh",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 98.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1058",
+      "date": "2026-11-03",
+      "customer": "Priya Nair",
+      "product": "Smart Watch",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 2,
+      "total": 299.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1059",
+      "date": "2026-11-03",
+      "customer": "Zara Khan",
+      "product": "Water Bottle 1L",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 37.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1060",
+      "date": "2026-11-03",
+      "customer": "Liam Brown",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 299.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1061",
+      "date": "2026-11-03",
+      "customer": "Ethan Moore",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 269.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1062",
+      "date": "2026-11-03",
+      "customer": "Liam Brown",
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 59.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1063",
+      "date": "2026-11-03",
+      "customer": "Aarav Patel",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 3,
+      "total": 50.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1064",
+      "date": "2026-11-03",
+      "customer": "Nina Patel",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 159.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1065",
+      "date": "2026-11-03",
+      "customer": "Isha Verma",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 2,
+      "total": 159.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1066",
+      "date": "2026-11-04",
+      "customer": "Kabir Singh",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 159.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1067",
+      "date": "2026-11-04",
+      "customer": "Sofia Garcia",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 34.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1068",
+      "date": "2026-11-04",
+      "customer": "Emma Wilson",
+      "product": "Throw Pillow Set",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 59.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1069",
+      "date": "2026-11-04",
+      "customer": "Lucas Taylor",
+      "product": "USB-C Charger",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 24.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1070",
+      "date": "2026-11-04",
+      "customer": "Emma Wilson",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 99.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1071",
+      "date": "2026-11-05",
+      "customer": "Liam Brown",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 2,
+      "total": 139.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1072",
+      "date": "2026-11-05",
+      "customer": "Kabir Singh",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 134.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1073",
+      "date": "2026-11-05",
+      "customer": "Nina Patel",
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 59.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1074",
+      "date": "2026-11-05",
+      "customer": "Isha Verma",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 79.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1075",
+      "date": "2026-11-05",
+      "customer": "Nina Patel",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 65.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1076",
+      "date": "2026-11-05",
+      "customer": "Mia Anderson",
+      "product": "USB-C Charger",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 24.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1077",
+      "date": "2026-11-05",
+      "customer": "Noah Davis",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 83.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1078",
+      "date": "2026-11-05",
+      "customer": "Zara Khan",
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 179.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1079",
+      "date": "2026-11-05",
+      "customer": "Chris Evans",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 149.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1080",
+      "date": "2026-11-06",
+      "customer": "Nina Patel",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 68.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1081",
+      "date": "2026-11-06",
+      "customer": "Zara Khan",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 65.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1082",
+      "date": "2026-11-06",
+      "customer": "Ananya Rao",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 149.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1083",
+      "date": "2026-11-06",
+      "customer": "Sofia Garcia",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 3,
+      "total": 209.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1084",
+      "date": "2026-11-06",
+      "customer": "Emma Wilson",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 74.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1085",
+      "date": "2026-11-06",
+      "customer": "Maya Shah",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 34.99,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1086",
+      "date": "2026-11-06",
+      "customer": "Ethan Moore",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 65.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1087",
+      "date": "2026-11-06",
+      "customer": "Emma Wilson",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 33.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1088",
+      "date": "2026-11-06",
+      "customer": "Emma Wilson",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 179.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1089",
+      "date": "2026-11-07",
+      "customer": "Emma Wilson",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 3,
+      "total": 83.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1090",
+      "date": "2026-11-07",
+      "customer": "Mia Anderson",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 209.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1091",
+      "date": "2026-11-07",
+      "customer": "Ananya Rao",
+      "product": "Gym Bag",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 119.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1092",
+      "date": "2026-11-07",
+      "customer": "Emma Wilson",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 33.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1093",
+      "date": "2026-11-07",
+      "customer": "Ananya Rao",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 2,
+      "total": 45.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1094",
+      "date": "2026-11-07",
+      "customer": "Noah Davis",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 199.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1095",
+      "date": "2026-11-07",
+      "customer": "Emma Wilson",
+      "product": "Smart Watch",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 149.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1096",
+      "date": "2026-11-07",
+      "customer": "Ethan Moore",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 34.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1097",
+      "date": "2026-11-08",
+      "customer": "Rahul Mehta",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 16.99,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1098",
+      "date": "2026-11-08",
+      "customer": "Olivia Chen",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 98.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1099",
+      "date": "2026-11-08",
+      "customer": "Ethan Moore",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 39.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1100",
+      "date": "2026-11-08",
+      "customer": "Lucas Taylor",
+      "product": "Throw Pillow Set",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 2,
+      "total": 59.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1101",
+      "date": "2026-11-08",
+      "customer": "Sofia Garcia",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 134.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1102",
+      "date": "2026-11-08",
+      "customer": "Nina Patel",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 2,
+      "total": 65.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1103",
+      "date": "2026-11-08",
+      "customer": "Sofia Garcia",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 2,
+      "total": 45.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1104",
+      "date": "2026-11-08",
+      "customer": "Ananya Rao",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 49.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1105",
+      "date": "2026-11-09",
+      "customer": "Jordan Lee",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 89.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1106",
+      "date": "2026-11-09",
+      "customer": "Emma Wilson",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 2,
+      "total": 65.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1107",
+      "date": "2026-11-09",
+      "customer": "Rahul Mehta",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 1,
+      "total": 89.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1108",
+      "date": "2026-11-09",
+      "customer": "Lucas Taylor",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 1,
+      "total": 34.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1109",
+      "date": "2026-11-09",
+      "customer": "Liam Brown",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 209.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1110",
+      "date": "2026-11-09",
+      "customer": "Zara Khan",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 1,
+      "total": 32.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1111",
+      "date": "2026-11-09",
+      "customer": "Olivia Chen",
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 179.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1112",
+      "date": "2026-11-10",
+      "customer": "Emma Wilson",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 3,
+      "total": 119.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1113",
+      "date": "2026-11-10",
+      "customer": "Maya Shah",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 194.97,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1114",
+      "date": "2026-11-10",
+      "customer": "Mia Anderson",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 49.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1115",
+      "date": "2026-11-10",
+      "customer": "Ethan Moore",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 16.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1116",
+      "date": "2026-11-10",
+      "customer": "Sofia Garcia",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 45.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1117",
+      "date": "2026-11-11",
+      "customer": "Nina Patel",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 33.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1118",
+      "date": "2026-11-11",
+      "customer": "Ananya Rao",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 159.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1119",
+      "date": "2026-11-11",
+      "customer": "Aarav Patel",
+      "product": "Gym Bag",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 79.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1120",
+      "date": "2026-11-11",
+      "customer": "Isha Verma",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 69.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1121",
+      "date": "2026-11-11",
+      "customer": "Aarav Patel",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 59.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1122",
+      "date": "2026-11-11",
+      "customer": "Kabir Singh",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 139.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1123",
+      "date": "2026-11-11",
+      "customer": "Aarav Patel",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 2,
+      "total": 33.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1124",
+      "date": "2026-11-11",
+      "customer": "Emma Wilson",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 209.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1125",
+      "date": "2026-11-12",
+      "customer": "Mia Anderson",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 134.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1126",
+      "date": "2026-11-12",
+      "customer": "Ananya Rao",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 149.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1127",
+      "date": "2026-11-12",
+      "customer": "Rahul Mehta",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 99.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1128",
+      "date": "2026-11-12",
+      "customer": "Rahul Mehta",
+      "product": "Water Bottle 1L",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 18.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1129",
+      "date": "2026-11-12",
+      "customer": "Rahul Mehta",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 74.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1130",
+      "date": "2026-11-12",
+      "customer": "Aarav Patel",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 199.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1131",
+      "date": "2026-11-12",
+      "customer": "Zara Khan",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 269.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1132",
+      "date": "2026-11-12",
+      "customer": "Nina Patel",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 27.99,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1133",
+      "date": "2026-11-13",
+      "customer": "Maya Shah",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 49.99,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1134",
+      "date": "2026-11-13",
+      "customer": "Lucas Taylor",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 2,
+      "total": 179.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1135",
+      "date": "2026-11-13",
+      "customer": "Nina Patel",
+      "product": "Smart Watch",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 149.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1136",
+      "date": "2026-11-13",
+      "customer": "Ethan Moore",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 239.97,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1137",
+      "date": "2026-11-13",
+      "customer": "Zara Khan",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 33.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1138",
+      "date": "2026-11-13",
+      "customer": "Priya Nair",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 98.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1139",
+      "date": "2026-11-13",
+      "customer": "Jordan Lee",
+      "product": "Throw Pillow Set",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 89.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1140",
+      "date": "2026-11-14",
+      "customer": "Aarav Patel",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 32.99,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1141",
+      "date": "2026-11-14",
+      "customer": "Maya Shah",
+      "product": "Gym Bag",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 79.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1142",
+      "date": "2026-11-14",
+      "customer": "Emma Wilson",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 44.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1143",
+      "date": "2026-11-14",
+      "customer": "Priya Nair",
+      "product": "Water Bottle 1L",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 37.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1144",
+      "date": "2026-11-14",
+      "customer": "Jordan Lee",
+      "product": "Throw Pillow Set",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 1,
+      "total": 29.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1145",
+      "date": "2026-11-15",
+      "customer": "Priya Nair",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 149.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1146",
+      "date": "2026-11-15",
+      "customer": "Mia Anderson",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 89.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1147",
+      "date": "2026-11-15",
+      "customer": "Ethan Moore",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 39.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1148",
+      "date": "2026-11-15",
+      "customer": "Emma Wilson",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Website",
+      "items": 1,
+      "total": 64.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1149",
+      "date": "2026-11-15",
+      "customer": "Lucas Taylor",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 64.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1150",
+      "date": "2026-11-15",
+      "customer": "Lucas Taylor",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 3,
+      "total": 209.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1151",
+      "date": "2026-11-16",
+      "customer": "Priya Nair",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 99.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1152",
+      "date": "2026-11-16",
+      "customer": "Olivia Chen",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 2,
+      "total": 33.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1153",
+      "date": "2026-11-16",
+      "customer": "Noah Davis",
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 2,
+      "total": 119.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1154",
+      "date": "2026-11-16",
+      "customer": "Kabir Singh",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 98.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1155",
+      "date": "2026-11-16",
+      "customer": "Isha Verma",
+      "product": "Smart Watch",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 449.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1156",
+      "date": "2026-11-16",
+      "customer": "Liam Brown",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 27.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1157",
+      "date": "2026-11-17",
+      "customer": "Owen Clark",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 27.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1158",
+      "date": "2026-11-17",
+      "customer": "Aarav Patel",
+      "product": "Throw Pillow Set",
+      "category": "Home & Kitchen",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 89.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1159",
+      "date": "2026-11-17",
+      "customer": "Priya Nair",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 159.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1160",
+      "date": "2026-11-17",
+      "customer": "Lucas Taylor",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 39.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1161",
+      "date": "2026-11-17",
+      "customer": "Rahul Mehta",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 45.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1162",
+      "date": "2026-11-17",
+      "customer": "Mia Anderson",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 89.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1163",
+      "date": "2026-11-17",
+      "customer": "Nina Patel",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 59.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1164",
+      "date": "2026-11-18",
+      "customer": "Noah Davis",
+      "product": "Gym Bag",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 79.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1165",
+      "date": "2026-11-18",
+      "customer": "Emma Wilson",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 299.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1166",
+      "date": "2026-11-18",
+      "customer": "Lucas Taylor",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 55.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1167",
+      "date": "2026-11-18",
+      "customer": "Chris Evans",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 69.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1168",
+      "date": "2026-11-18",
+      "customer": "Ananya Rao",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 3,
+      "total": 83.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1169",
+      "date": "2026-11-18",
+      "customer": "Chris Evans",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 3,
+      "total": 209.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1170",
+      "date": "2026-11-18",
+      "customer": "Olivia Chen",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Website",
+      "items": 3,
+      "total": 59.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1171",
+      "date": "2026-11-19",
+      "customer": "Lucas Taylor",
+      "product": "Gym Bag",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 2,
+      "total": 79.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1172",
+      "date": "2026-11-19",
+      "customer": "Zara Khan",
+      "product": "Smart Watch",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 449.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1173",
+      "date": "2026-11-19",
+      "customer": "Priya Nair",
+      "product": "USB-C Charger",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 24.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1174",
+      "date": "2026-11-19",
+      "customer": "Noah Davis",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Website",
+      "items": 1,
+      "total": 64.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1175",
+      "date": "2026-11-19",
+      "customer": "Chris Evans",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 39.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1176",
+      "date": "2026-11-19",
+      "customer": "Sofia Garcia",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 1,
+      "total": 22.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1177",
+      "date": "2026-11-19",
+      "customer": "Nina Patel",
+      "product": "Lipstick Set",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 45.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1178",
+      "date": "2026-11-19",
+      "customer": "Liam Brown",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 2,
+      "total": 99.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1179",
+      "date": "2026-11-19",
+      "customer": "Ananya Rao",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 99.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1180",
+      "date": "2026-11-20",
+      "customer": "Zara Khan",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 99.98,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1181",
+      "date": "2026-11-20",
+      "customer": "Olivia Chen",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 27.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1182",
+      "date": "2026-11-20",
+      "customer": "Olivia Chen",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 19.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1183",
+      "date": "2026-11-20",
+      "customer": "Lucas Taylor",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 98.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1184",
+      "date": "2026-11-20",
+      "customer": "Rahul Mehta",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Instagram Shop",
+      "items": 1,
+      "total": 74.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1185",
+      "date": "2026-11-20",
+      "customer": "Maya Shah",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 239.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1186",
+      "date": "2026-11-21",
+      "customer": "Chris Evans",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 3,
+      "total": 224.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1187",
+      "date": "2026-11-21",
+      "customer": "Rahul Mehta",
+      "product": "Leather Wallet",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 44.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1188",
+      "date": "2026-11-21",
+      "customer": "Liam Brown",
+      "product": "Cotton T-Shirt",
+      "category": "Fashion",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 19.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1189",
+      "date": "2026-11-21",
+      "customer": "Jordan Lee",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 129.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1190",
+      "date": "2026-11-22",
+      "customer": "Olivia Chen",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 1,
+      "total": 49.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1191",
+      "date": "2026-11-22",
+      "customer": "Isha Verma",
+      "product": "Yoga Mat",
+      "category": "Sports",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 65.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1192",
+      "date": "2026-11-22",
+      "customer": "Emma Wilson",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Marketplace",
+      "items": 1,
+      "total": 49.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1193",
+      "date": "2026-11-22",
+      "customer": "Emma Wilson",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Website",
+      "items": 3,
+      "total": 224.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1194",
+      "date": "2026-11-22",
+      "customer": "Ethan Moore",
+      "product": "Hair Dryer",
+      "category": "Beauty",
+      "channel": "Website",
+      "items": 3,
+      "total": 149.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1195",
+      "date": "2026-11-22",
+      "customer": "Lucas Taylor",
+      "product": "Wireless Headphones",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 2,
+      "total": 179.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1196",
+      "date": "2026-11-22",
+      "customer": "Ananya Rao",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 2,
+      "total": 69.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1197",
+      "date": "2026-11-22",
+      "customer": "Chris Evans",
+      "product": "Gym Bag",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 119.97,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1198",
+      "date": "2026-11-22",
+      "customer": "Ethan Moore",
+      "product": "USB-C Charger",
+      "category": "Electronics",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 74.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1199",
+      "date": "2026-11-23",
+      "customer": "Ananya Rao",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 199.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1200",
+      "date": "2026-11-23",
+      "customer": "Isha Verma",
+      "product": "Bluetooth Speaker",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 3,
+      "total": 179.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1201",
+      "date": "2026-11-23",
+      "customer": "Ananya Rao",
+      "product": "Running Shoes",
+      "category": "Fashion",
+      "channel": "Website",
+      "items": 1,
+      "total": 99.99,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1202",
+      "date": "2026-11-23",
+      "customer": "Noah Davis",
+      "product": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 79.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1203",
+      "date": "2026-11-23",
+      "customer": "Kabir Singh",
+      "product": "Water Bottle 1L",
+      "category": "Sports",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 18.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1204",
+      "date": "2026-11-23",
+      "customer": "Chris Evans",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Website",
+      "items": 2,
+      "total": 69.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1205",
+      "date": "2026-11-23",
+      "customer": "Liam Brown",
+      "product": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "channel": "Mobile App",
+      "items": 3,
+      "total": 104.97,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1206",
+      "date": "2026-11-23",
+      "customer": "Isha Verma",
+      "product": "Smart Watch",
+      "category": "Electronics",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 149.99,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1207",
+      "date": "2026-11-23",
+      "customer": "Liam Brown",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Website",
+      "items": 1,
+      "total": 64.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1208",
+      "date": "2026-11-24",
+      "customer": "Jordan Lee",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 83.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1209",
+      "date": "2026-11-24",
+      "customer": "Mia Anderson",
+      "product": "Denim Jacket",
+      "category": "Fashion",
+      "channel": "Mobile App",
+      "items": 2,
+      "total": 129.98,
+      "status": "Processing"
+    },
+    {
+      "id": "SK-1210",
+      "date": "2026-11-24",
+      "customer": "Ananya Rao",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Website",
+      "items": 2,
+      "total": 79.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1211",
+      "date": "2026-11-24",
+      "customer": "Priya Nair",
+      "product": "Sunscreen SPF 50",
+      "category": "Beauty",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 33.98,
+      "status": "Cancelled"
+    },
+    {
+      "id": "SK-1212",
+      "date": "2026-11-24",
+      "customer": "Noah Davis",
+      "product": "Face Moisturizer",
+      "category": "Beauty",
+      "channel": "Mobile App",
+      "items": 1,
+      "total": 27.99,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1213",
+      "date": "2026-11-24",
+      "customer": "Nina Patel",
+      "product": "Throw Pillow Set",
+      "category": "Home & Kitchen",
+      "channel": "Instagram Shop",
+      "items": 3,
+      "total": 89.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1214",
+      "date": "2026-11-24",
+      "customer": "Mia Anderson",
+      "product": "Dumbbell Set",
+      "category": "Sports",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 149.98,
+      "status": "Delivered"
+    },
+    {
+      "id": "SK-1215",
+      "date": "2026-11-24",
+      "customer": "Rahul Mehta",
+      "product": "Laptop Stand",
+      "category": "Electronics",
+      "channel": "Marketplace",
+      "items": 3,
+      "total": 119.97,
+      "status": "Shipped"
+    },
+    {
+      "id": "SK-1216",
+      "date": "2026-11-24",
+      "customer": "Ananya Rao",
+      "product": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "channel": "Marketplace",
+      "items": 2,
+      "total": 139.98,
+      "status": "Shipped"
+    }
+  ]
+}
